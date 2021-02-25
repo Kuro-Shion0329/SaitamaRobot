@@ -235,7 +235,7 @@ def start(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 text="Bot Owner",
                                 url="https://t.me/Oreooo",
-                            ),
+                            )
                         ],
                     ]
                 ),
